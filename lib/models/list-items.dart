@@ -1,5 +1,4 @@
-// item.dart
-// list-items.dart
+//list-items.dart
 import 'package:flutter/material.dart';
 
 class Brand {
